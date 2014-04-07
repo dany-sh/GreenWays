@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    
+    <link rel="stylesheet" type="text/css" href="css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="css/base.css" />
+    <link rel="stylesheet" type="text/css"
+        href="jquery-ui-1.8.14.custom/css/custom-theme/jquery-ui-1.8.14.custom.css" />
+
+    <script type="text/javascript" src="js/json2.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.store.js"></script>
+    <script type="text/javascript"
+        src="jquery-ui-1.8.14.custom/js/jquery-ui-1.8.14.custom.min.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places"></script>
+    
+    <script type="text/javascript" src="js/messagebox.js"></script>
+    <script type="text/javascript" src="js/misc.js"></script>
+    <script type="text/javascript" src="js/routes.js"></script>
+    <script type="text/javascript" src="js/routeDisplay.js"></script>
+
+<script>
+function initialize() {
+
+//var defaultBounds = new google.maps.LatLngBounds(new google.maps.LatLng(40.802089, -124.163751));
+
+var origin_input = document.getElementById('addStart');
+var destination_input = document.getElementById('addEnd');
+
+
+var options = {
+//	bounds: defaultBounds,
+	//componentRestrictions: {country: 'us'}
+};
+
+
+var autocomplete_origin = new google.maps.places.Autocomplete(origin_input);    
+var autocomplete_destination = new google.maps.places.Autocomplete(destination_input);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+
+</script>
+	<title>Calculette Carbone Voyage</title>
+</head>
+<body>
+
+    <script type="text/javascript">
+    /**
+     * @author Matthieu Napoli
+     * 
+     * This file is part of the program "Calculette Carbone Voyage"
+     * 
+     *  This program is free software: you can redistribute it and/or modify
+     *  it under the terms of the Lesser GNU General Public License as published by
+     *  the Free Software Foundation, either version 3 of the License, or
+     *  any later version.
+     *
+     *  This program is distributed in the hope that it will be useful,
+     *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+     *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+     *  Lesser GNU General Public License for more details.
+     *
+     *  You should have received a copy of the Lesser GNU General Public License
+     *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+     */
+    </script>
+
+    <div id="messagebox"></div>
+
+    <div id="menu">
+        <h1>Calculette carbone voyage</h1>
+        <a href="http://chiffres-carbone.fr" id="chiffresCarbone" class="first"
+            title="Retour sur chiffres-carbone.fr">
+            <strong style="font-size: 1.2em">GreenWays.fr</strong></a>
+        <a href="#" id="userGuideLink" title="Aide utilisateur de la calculette carbone voyage">
+            Aide utilisateur</a>
+        <a href="http://chiffres-carbone.fr/facteurs-emission-calculette-voyage/"
+            title="Détails des calculs de la calculette carbone voyage">
+            Détails des calculs</a>
+        <a href="#" id="aboutLink" title="À propos de la calculette carbone voyage">
+            À propos</a>
+        <a href="http://www.facebook.com/share.php?u=http://voyage.chiffres-carbone.fr/"
+            class="share" style="margin-left: 60px" title="Partager sur Facebook">
+            <img src="img/facebook-small.png" alt="Facebook" /></a>
+    </div>
+
+    <div id="tripUrlDialog">
+        <p>
+            Voici le lien vers votre voyage :
+        </p>
+        <p>
+            <input id="tripUrl" type="text" />
+        </p>
+        <p>
+            <a id="tripUrlShareFacebook" href="http://www.facebook.com/share.php?u=">
+                <img src="img/facebook-share.png" alt="Partager sur facebook" /></a>
+        </p>
+    </div>
+
+    <div id="userGuide">
+        <p>
+            Pour calculer les émissions de gaz à effet de serre (en kg équivalent CO2),
+            rien de plus simple !
+        </p>
+        <ol>
+            <li>
+                Il suffit de saisir le lieu de départ et le lieu de destination,
+                si il existe des villes du même nom dans d’autres pays,
+                il suffit d’ajouter “,france” après le nom de la ville.
+                Exemple : Lyon,france.
+            </li>
+            <li>
+                Ensuite il faut choisir le moyen de transport entre voiture,
+                moto, avion, train, autocar, bus, vélo, marche à pied.
+            </li>
+        </ol>
+        <p>
+            Enfin le résultat s’affiche avec sur la gauche sur la carte
+            le trajet emprunté, et sur la droite le récapitulatif du trajet réalisé.
+        </p>
+        <p>
+            Le résultat total des émissiosn en kg équivalent CO2 est affiché
+            en bas à droite de la page.
+        </p>
+        <p>
+            Pour envoyer le calcul d’un trajet, on peut obtenir le lien
+            (à copier/coller dans un mail par exemple) en cliquant sur
+            le bouton “Lien”. Une popup s’ouvre alors.
+        </p>
+        <p>
+            Il est possible de remettre à zéro le logiciel en cliquant
+            sur le bouton “Vider”.
+        </p>
+    </div>
+
+    <div id="about">
+        <p>
+            L’application Calculette Carbone Voyage permet de comparer l’impact
+            environnemental d’un voyage en fonction des types de véhicules utilisés.
+        </p>
+        <p>
+            L’innovation consiste en la visualisation du trajet via Google Maps.
+            Nous proposons une interface agréable pour traiter le domaine
+            du transport qui soulève beaucoup de questions.
+        </p>
+        <p>
+            Vous pourrez trouver le détail des facteurs d’émission utilisés
+            ainsi que des calculs réalisés sur cette même page.
+            Pour toute question, n’hésitez pas à nous contacter sur
+            <a href="http://chiffres-carbone.fr/" title="Chiffres carbone">
+                chiffres-carbone.fr</a>.
+        </p>
+    </div>
+    
+    <div id="map">Javascript doit être activé</div>
+
+    <div id="base">
+    <div id="baseRelative">
+        <div id="header">
+            <h2>Ajouter un trajet</h2>
+            <table id="addRoute" style="width: 100%">
+                <tr>
+                    <td style="width: 75px">
+                        Départ :
+                    </td>
+                    <td>
+                        <input id="addStart" type="text" tabindex="1" style="width: 95%" />
+                    </td>
+                    <td rowspan="2" style="text-align: center">
+                        <select id="addType" tabindex="3">
+                            <option value="car">Voiture</option>
+                            <option value="motorbike">Moto</option>
+                            <option value="plane">Avion</option>
+                            <option value="train">Train</option>
+                            <option value="coach">Autocar</option>
+                            <option value="bus">Bus</option>
+                            <option value="bike">Vélo</option>
+                            <option value="walking">Marche à pied</option>
+                        </select>
+                    </td>
+                    <td rowspan="2">
+                        <input id="add" type="button" value="Ajouter" tabindex="4" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Arrivée :
+                    </td>
+                    <td>
+                        <input id="addEnd" type="text" tabindex="2" style="width: 95%" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="option">
+ 			<h2>
+            Options
+            </h2>
+            <table id="addOption" style="width: 100%">
+            <tr>
+           		  <td width="40%">
+                    <dt id="Car-label">
+                    		<label for="searchcar" class="optional">Modéle du vehicule:</label>				
+               	    </dt>
+					<input type="text" id="searchCar" size="50" />
+					
+       		  </td>
+         
+            		<td width="35%"></td>
+              <td width="25%">
+                </td>
+           	  </tr>
+            	<tr>
+           		  <td width="40%">
+                    <dt id="Consomation-label">
+                    		<label for="Consomation" class="optional">Consomation au litre/100km :</label>				
+                   	  </dt>
+					  <input type="text" id="conso" value="5" size="3" maxlength="3" /> 
+					  L/100km
+            		</td>
+         
+            		<td width="35%">
+                    <dt id="carburant-label">
+                    	<label for="carburant" class="optional">Carburant :</label>				
+                    </dt>
+                      	<select id="carburant" tabindex="5">
+            				<option value="GO">Diesel</option>
+            				<option value="ES">Essence</option>
+            				<option value="GPL">GPL</option>
+            				<option value="HY">Hybride</option>
+            				<option value="EL">Electrique</option>
+            			</select>
+            		</td>
+                    <td width="25%">
+                      <dt id="transmission-label">
+                    	<label for="transmission" class="optional">Boîte de vitesse :</label>				
+                    </dt>
+            		<select name="transmission" id="transmission">
+                    <option label="Choisissez..." value="A">Choisissez...</option>
+                    <option label="Automatique" value="A">Automatique</option>
+                    <option label="Manuelle" value="M">Manuelle</option></select>
+                    </td>
+            	</tr>
+            </table>
+        </div>
+   
+        <div id="content">
+            <h2>
+                Trajets
+                <button id="routesClear" class="routesButtons">Vider</button>
+                <button id="routesLink" class="routesButtons">Lien</button>
+            </h2>
+            <ul id="routeList">
+                <li>Aucun</li>
+            </ul>
+        </div>
+    
+        <div id="total">
+            <h2>Émission totale</h2>
+            <p id="totalEmission">0 kg équivalent CO&#8322;</p>
+        </div>
+    </div>
+    </div>
+	<script type="text/javascript"> 
+	$(document).ready(function(){ 
+	//quant on clique sur le div blocaction 
+		$("#addType").change(function(){ 
+	//si le div deroulant est caché on le montre 
+			if($('#addType option:selected').val()=="car")
+			{ 
+				$("#option").show(); 
+			} 
+			if($('#addType option:selected').val()!="car")
+			{ 
+				$("#option").hide();
+			} 
+		}); 
+	}); 
+</script>
+
+	<script type="text/javascript">
+	    
+		var directionsService = new google.maps.DirectionsService();
+		var directionsDisplays = [];
+		var map;
+	    var geocoder;
+		
+		// Initialization
+		$(document).ready(function() {
+            // User guide
+            $("#userGuideLink").click(function() {
+                $("#userGuide").dialog({
+                    title: "Aide utilisateur de la calculette carbone voyage",
+                    show: "fade",
+                    hide: "fade",
+                    modal: true,
+                    minWidth: 600
+                });
+                return false;
+            });
+            // About
+            $("#aboutLink").click(function() {
+                $("#about").dialog({
+                    title: "À propos de la calculette carbone voyage",
+                    show: "fade",
+                    hide: "fade",
+                    modal: true,
+                    minWidth: 600
+                });
+                return false;
+            });
+		    // Storage of the routes
+            $.storage = new $.store();
+            if ($.storage.driver.scope != "browser") {
+                messageBox("Votre navigateur ne supporte pas l'enregistrement des données."
+                    +" Votre voyage sera donc perdu une fois que vous quitterez le site.");
+            }
+            // Jquery UI display
+            $("input:button").button();
+            // Get routes as link
+            $("#routesLink").button({
+                icons: { primary: "ui-icon-link" }
+            });
+            $("#routesLink").click(showLink);
+            // Add route
+            $("#add").click(addRoute);
+            // Delete all routes
+            $("#routesClear").button({
+                icons: { primary: "ui-icon-trash" }
+            });
+            $("#routesClear").click(deleteAllRoutes);
+			// Create the map
+			var myLatlng = new google.maps.LatLng(46.225453, 2.416992);
+			var myOptions = {
+				mapTypeId: google.maps.MapTypeId.TERRAIN
+			};
+			map = new google.maps.Map(document.getElementById("map"), myOptions);
+			// Geocoding service
+            geocoder = new google.maps.Geocoder();
+			// Load routes
+			loadRoutes();
+		});
+		
+	</script>
+      <script>
+// $(function () {
+$(document).ready(function() {
+   		 var xhr;
+ 		var obj = $("#searchCar").autocomplete({
+	  	delay: 2,
+		minlength: 3,
+        source: function (request, response) {
+			var re = $.ui.autocomplete.escapeRegex(request.term);
+            var regex = new RegExp(re, 'i');		
+            if (xhr) {
+                xhr.abort();
+            }
+            xhr = $.ajax({
+       /*         headers: {
+                    'Accept': 'application/json',
+                        'Content-Type': 'text/plain'
+                },*/
+				
+                url: "js/renault.json",
+				url:"js/citroen.json",
+                dataType: "json",
+                crossDomain: true,
+                cache: true,
+                success: function (data) 
+				{
+					/*var a = $.map(data, function (car) {
+						//console.log(item.rejet);
+						
+                       // if (regex.test(car.model)) {
+						if (car.model && (!request.term || regex.test(car.model))) {
+                            return {
+                                rejet: 		car.rejet,
+								value: 		car.model,
+                                carburant: 	car.carburant,
+								consoU:		car.consoUrbain,
+                            };
+			
+                        }
+                    }); */
+					var a = $.map(data, function (car,i) {
+						//console.log(car.rejet);	
+                        if (regex.test(car.model)) {
+                            return  {
+								rejet: 		car.rejet,
+								label: 		car.model,
+                                carburant: 	car.carburant,
+								consoU:		car.consoUrbain,
+							};
+						}
+                    }); 
+                    response(a);
+                }
+            }); 
+        },
+        select: function(event, ui ) { 
+		$( "#searchCar" ).val( ui.item.label );
+		$( "#conso" ).val( ui.item.consoU );
+		$( "#carburant" ).val( ui.item.carburant );
+				},
+    });
+	
+	obj && (obj._renderItem = function (ul, item) {
+		
+        return $("<li></li>")
+        .data("ui-autocomplete-item", item)
+        .append("<a><strong>" + item.model + "</strong></a>")
+        .appendTo(ul);
+		
+    });
+	
+	function addMessage(msg){
+        $('#msgs').append(msg);
+    }
+});
+
+</script>
+
+	
+</body>
+
+</html>

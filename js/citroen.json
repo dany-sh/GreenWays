@@ -1,0 +1,1594 @@
+[
+  {
+    "model":"CITROEN C-ZERO",
+    "carburant":"EL",
+    "consoUrbain":0,
+    "consoExtUr":0,
+    "consoMixte":0,
+    "rejet":0
+  },
+  {
+    "model":"CITROEN C3 e-HDi (70ch) Airdream BMP",
+    "carburant":"GO",
+    "consoUrbain":3.6,
+    "consoExtUr":3.2,
+    "consoMixte":3.4,
+    "rejet":87
+  },
+  {
+    "model":"CITROEN DS5 Hybrid4 BMP6",
+    "carburant":"HY",
+    "consoUrbain":3.1,
+    "consoExtUr":3.6,
+    "consoMixte":3.4,
+    "rejet":88
+  },
+  {
+    "model":"CITROEN C3 e-HDi (90ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":4.1,
+    "consoExtUr":3.1,
+    "consoMixte":3.5,
+    "rejet":90
+  },
+  {
+    "model":"CITROEN DS3 e-HDi (90ch) AirDream BVM5",
+    "carburant":"GO",
+    "consoUrbain":4.1,
+    "consoExtUr":3.1,
+    "consoMixte":3.5,
+    "rejet":90
+  },
+  {
+    "model":"CITROEN C3 VTI BVM5",
+    "carburant":"ES",
+    "consoUrbain":5.0,
+    "consoExtUr":3.7,
+    "consoMixte":4.1,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN C3 VTI (82ch) BVMP5",
+    "carburant":"ES",
+    "consoUrbain":4.5,
+    "consoExtUr":3.9,
+    "consoMixte":4.1,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN C3 e-HDi (90ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":4.2,
+    "consoExtUr":3.3,
+    "consoMixte":3.6,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN C3 HDi (70ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":4.4,
+    "consoExtUr":3.2,
+    "consoMixte":3.6,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN C3 e-HDi (90ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":4.1,
+    "consoExtUr":3.4,
+    "consoMixte":3.6,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN C3 e-HDi (90ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":4.3,
+    "consoExtUr":3.2,
+    "consoMixte":3.6,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN C4 e-Hdi (115ch) BVP6",
+    "carburant":"GO",
+    "consoUrbain":4.1,
+    "consoExtUr":3.4,
+    "consoMixte":3.7,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN C4 e-Hdi (115ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.3,
+    "consoExtUr":3.3,
+    "consoMixte":3.7,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN DS3 VTI (82ch) BVMP5",
+    "carburant":"ES",
+    "consoUrbain":4.5,
+    "consoExtUr":3.9,
+    "consoMixte":4.1,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN DS3 CABRIO e-HDi (90ch) BVM5",
+    "carburant":"GO",
+    "consoUrbain":4.2,
+    "consoExtUr":3.3,
+    "consoMixte":3.6,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN DS3 e-HDi (90ch) AirDream BVM5",
+    "carburant":"GO",
+    "consoUrbain":4.2,
+    "consoExtUr":3.3,
+    "consoMixte":3.6,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN DS3 e-HDi (90ch) AirDream BVM5",
+    "carburant":"GO",
+    "consoUrbain":4.3,
+    "consoExtUr":3.2,
+    "consoMixte":3.6,
+    "rejet":95
+  },
+  {
+    "model":"CITROEN C4 e-Hdi (115ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.4,
+    "consoExtUr":3.4,
+    "consoMixte":3.8,
+    "rejet":97
+  },
+  {
+    "model":"CITROEN C4 e-Hdi (115ch) BVP6",
+    "carburant":"GO",
+    "consoUrbain":4.2,
+    "consoExtUr":3.5,
+    "consoMixte":3.8,
+    "rejet":98
+  },
+  {
+    "model":"CITROEN Nouveau C4 Picasso e-Hdi (90ch) ETG6",
+    "carburant":"GO",
+    "consoUrbain":4.2,
+    "consoExtUr":3.5,
+    "consoMixte":3.8,
+    "rejet":98
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 5PL e-Hdi (90ch) BVMP6",
+    "carburant":"GO",
+    "consoUrbain":4.2,
+    "consoExtUr":3.5,
+    "consoMixte":3.8,
+    "rejet":98
+  },
+  {
+    "model":"CITROEN C1 3P 1.0i BVM",
+    "carburant":"ES",
+    "consoUrbain":5.1,
+    "consoExtUr":3.8,
+    "consoMixte":4.3,
+    "rejet":99
+  },
+  {
+    "model":"CITROEN C1 5P 1.0i BVM",
+    "carburant":"ES",
+    "consoUrbain":5.1,
+    "consoExtUr":3.8,
+    "consoMixte":4.3,
+    "rejet":99
+  },
+  {
+    "model":"CITROEN C3 VTI BVM5",
+    "carburant":"ES",
+    "consoUrbain":5.1,
+    "consoExtUr":3.8,
+    "consoMixte":4.3,
+    "rejet":99
+  },
+  {
+    "model":"CITROEN C3 VTI (82ch) BVMP5",
+    "carburant":"ES",
+    "consoUrbain":5.2,
+    "consoExtUr":3.9,
+    "consoMixte":4.3,
+    "rejet":99
+  },
+  {
+    "model":"CITROEN C3 HDi (70ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUr":3.4,
+    "consoMixte":3.8,
+    "rejet":99
+  },
+  {
+    "model":"CITROEN C3 e-HDi (90ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":4.3,
+    "consoExtUr":3.5,
+    "consoMixte":3.8,
+    "rejet":99
+  },
+  {
+    "model":"CITROEN Nouvelle C3 e-Hdi (115ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":4.6,
+    "consoExtUr":3.4,
+    "consoMixte":3.8,
+    "rejet":99
+  },
+  {
+    "model":"CITROEN DS3 VTI (82ch) BVMP5",
+    "carburant":"ES",
+    "consoUrbain":5.2,
+    "consoExtUr":3.9,
+    "consoMixte":4.3,
+    "rejet":99
+  },
+  {
+    "model":"CITROEN DS3 CABRIO e-HDi (90ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":4.3,
+    "consoExtUr":3.5,
+    "consoMixte":3.8,
+    "rejet":99
+  },
+  {
+    "model":"CITROEN DS3 e-HDi (90ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":4.3,
+    "consoExtUr":3.5,
+    "consoMixte":3.8,
+    "rejet":99
+  },
+  {
+    "model":"CITROEN DS3 e-HDi (115ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.6,
+    "consoExtUr":3.4,
+    "consoMixte":3.8,
+    "rejet":99
+  },
+  {
+    "model":"CITROEN C4 e-Hdi (115ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.4,
+    "consoExtUr":3.5,
+    "consoMixte":3.8,
+    "rejet":100
+  },
+  {
+    "model":"CITROEN C4 e-Hdi (115ch) BVP6",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUr":3.5,
+    "consoMixte":3.8,
+    "rejet":100
+  },
+  {
+    "model":"CITROEN C4 e-Hdi (115ch) BVP6",
+    "carburant":"GO",
+    "consoUrbain":4.3,
+    "consoExtUr":3.6,
+    "consoMixte":3.9,
+    "rejet":101
+  },
+  {
+    "model":"CITROEN C1 3P 1.0i ETG",
+    "carburant":"ES",
+    "consoUrbain":5.3,
+    "consoExtUr":3.9,
+    "consoMixte":4.4,
+    "rejet":102
+  },
+  {
+    "model":"CITROEN C1 5P 1.0i ETG",
+    "carburant":"ES",
+    "consoUrbain":5.3,
+    "consoExtUr":3.9,
+    "consoMixte":4.4,
+    "rejet":102
+  },
+  {
+    "model":"CITROEN C3 VTI (82ch) BVM",
+    "carburant":"ES",
+    "consoUrbain":5.5,
+    "consoExtUr":3.9,
+    "consoMixte":4.5,
+    "rejet":102
+  },
+  {
+    "model":"CITROEN C3 VTI (68ch) BVM5",
+    "carburant":"ES",
+    "consoUrbain":5.2,
+    "consoExtUr":4.0,
+    "consoMixte":4.4,
+    "rejet":102
+  },
+  {
+    "model":"CITROEN DS3 VTI (82ch) BVM5",
+    "carburant":"ES",
+    "consoUrbain":5.5,
+    "consoExtUr":3.9,
+    "consoMixte":4.5,
+    "rejet":102
+  },
+  {
+    "model":"CITROEN DS5 Hybrid4 BMP6",
+    "carburant":"HY",
+    "consoUrbain":3.8,
+    "consoExtUr":4.0,
+    "consoMixte":3.9,
+    "rejet":102
+  },
+  {
+    "model":"CITROEN DS5 BlueHdi (120ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.6,
+    "consoExtUr":3.5,
+    "consoMixte":3.9,
+    "rejet":102
+  },
+  {
+    "model":"CITROEN C4 e-Hdi (115ch) BVP6",
+    "carburant":"GO",
+    "consoUrbain":4.7,
+    "consoExtUr":3.5,
+    "consoMixte":3.9,
+    "rejet":103
+  },
+  {
+    "model":"CITROEN C1 3P 1.0i BMP",
+    "carburant":"ES",
+    "consoUrbain":5.4,
+    "consoExtUr":4.0,
+    "consoMixte":4.5,
+    "rejet":104
+  },
+  {
+    "model":"CITROEN C1 5P 1.0i BMP",
+    "carburant":"ES",
+    "consoUrbain":5.4,
+    "consoExtUr":4.0,
+    "consoMixte":4.5,
+    "rejet":104
+  },
+  {
+    "model":"CITROEN C3 VTI (82ch) BVM",
+    "carburant":"ES",
+    "consoUrbain":5.5,
+    "consoExtUr":3.9,
+    "consoMixte":4.5,
+    "rejet":104
+  },
+  {
+    "model":"CITROEN C3 HDi (90ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUr":3.4,
+    "consoMixte":4.0,
+    "rejet":104
+  },
+  {
+    "model":"CITROEN C4 HDi (90ch) FAP BVM5",
+    "carburant":"GO",
+    "consoUrbain":4.8,
+    "consoExtUr":3.5,
+    "consoMixte":4.0,
+    "rejet":104
+  },
+  {
+    "model":"CITROEN Nouveau C4 Picasso e-Hdi (115ch) BVMP6 STT",
+    "carburant":"GO",
+    "consoUrbain":4.4,
+    "consoExtUr":3.7,
+    "consoMixte":4.0,
+    "rejet":104
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 5PL e-Hdi (115ch) BVMP6",
+    "carburant":"GO",
+    "consoUrbain":4.4,
+    "consoExtUr":3.7,
+    "consoMixte":4.0,
+    "rejet":104
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL Vti (115ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":4.4,
+    "consoExtUr":3.7,
+    "consoMixte":4.0,
+    "rejet":104
+  },
+  {
+    "model":"CITROEN DS3 VTI (82ch) BVM5",
+    "carburant":"ES",
+    "consoUrbain":5.5,
+    "consoExtUr":3.9,
+    "consoMixte":4.5,
+    "rejet":104
+  },
+  {
+    "model":"CITROEN DS5 BlueHdi (120ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.6,
+    "consoExtUr":3.6,
+    "consoMixte":4.0,
+    "rejet":104
+  },
+  {
+    "model":"CITROEN C3 PICASSO Hdi (90ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":4.7,
+    "consoExtUr":3.6,
+    "consoMixte":4.0,
+    "rejet":105
+  },
+  {
+    "model":"CITROEN C4 e-Hdi (115ch) BVP6",
+    "carburant":"GO",
+    "consoUrbain":4.6,
+    "consoExtUr":3.6,
+    "consoMixte":4.0,
+    "rejet":105
+  },
+  {
+    "model":"CITROEN Nouveau C4 Picasso e-Hdi (115ch) BVMP6 STT",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUr":3.8,
+    "consoMixte":4.0,
+    "rejet":105
+  },
+  {
+    "model":"CITROEN Nouveau C4 Picasso e-Hdi (115ch) BVM6 STT",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUr":3.8,
+    "consoMixte":4.0,
+    "rejet":105
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 5PL e-Hdi (115ch) BVMP6",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUr":3.8,
+    "consoMixte":4.0,
+    "rejet":105
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 5PL e-Hdi (90ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUr":3.8,
+    "consoMixte":4.0,
+    "rejet":105
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL Vti (115ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUr":3.8,
+    "consoMixte":4.0,
+    "rejet":105
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL Vti (115ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUr":3.8,
+    "consoMixte":4.0,
+    "rejet":105
+  },
+  {
+    "model":"CITROEN DS5 BlueHdi (120ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.7,
+    "consoExtUr":3.7,
+    "consoMixte":4.0,
+    "rejet":105
+  },
+  {
+    "model":"CITROEN C4 HDi (90ch) FAP BVM5",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUr":3.6,
+    "consoMixte":4.1,
+    "rejet":106
+  },
+  {
+    "model":"CITROEN C3 VTI (82ch) BVM5",
+    "carburant":"ES",
+    "consoUrbain":5.6,
+    "consoExtUr":4.1,
+    "consoMixte":4.6,
+    "rejet":107
+  },
+  {
+    "model":"CITROEN C3 HDi (90ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUr":3.6,
+    "consoMixte":4.1,
+    "rejet":107
+  },
+  {
+    "model":"CITROEN C3 PICASSO Hdi (90ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":4.7,
+    "consoExtUr":3.7,
+    "consoMixte":4.1,
+    "rejet":107
+  },
+  {
+    "model":"CITROEN DS3 VTI (82ch) BVM5",
+    "carburant":"ES",
+    "consoUrbain":5.6,
+    "consoExtUr":4.1,
+    "consoMixte":4.6,
+    "rejet":107
+  },
+  {
+    "model":"CITROEN NEMO COMBI HDi (75ch) BMP5 Confort",
+    "carburant":"GO",
+    "consoUrbain":4.8,
+    "consoExtUr":3.7,
+    "consoMixte":4.1,
+    "rejet":107
+  },
+  {
+    "model":"CITROEN Nouvelle C3 e-Hdi (115ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":5.4,
+    "consoExtUr":3.5,
+    "consoMixte":4.2,
+    "rejet":109
+  },
+  {
+    "model":"CITROEN C3 PICASSO HDi (90ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":4.7,
+    "consoExtUr":3.8,
+    "consoMixte":4.2,
+    "rejet":109
+  },
+  {
+    "model":"CITROEN C4 HDi (90ch) FAP BVM5",
+    "carburant":"GO",
+    "consoUrbain":5.0,
+    "consoExtUr":3.7,
+    "consoMixte":4.2,
+    "rejet":109
+  },
+  {
+    "model":"CITROEN DS3 CABRIO VTI (82ch) BVM",
+    "carburant":"ES",
+    "consoUrbain":5.6,
+    "consoExtUr":4.1,
+    "consoMixte":4.7,
+    "rejet":109
+  },
+  {
+    "model":"CITROEN Nouveau C4 Picasso Hdi (90ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":4.8,
+    "consoExtUr":3.8,
+    "consoMixte":4.2,
+    "rejet":110
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL Blue HDi (150ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUr":3.8,
+    "consoMixte":4.2,
+    "rejet":110
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL Blue HDi (150ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUr":3.8,
+    "consoMixte":4.2,
+    "rejet":110
+  },
+  {
+    "model":"CITROEN Nouveau C4 Picasso (150ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUr":3.8,
+    "consoMixte":4.2,
+    "rejet":110
+  },
+  {
+    "model":"CITROEN DS4 e-HDi (115ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":4.6,
+    "consoExtUr":4.0,
+    "consoMixte":4.2,
+    "rejet":110
+  },
+  {
+    "model":"CITROEN DS4 e-HDi (115ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":5.0,
+    "consoExtUr":3.8,
+    "consoMixte":4.2,
+    "rejet":110
+  },
+  {
+    "model":"CITROEN C3 PICASSO HDi (90ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUr":4.0,
+    "consoMixte":4.3,
+    "rejet":112
+  },
+  {
+    "model":"CITROEN DS5 e-Hdi (115ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUr":4.1,
+    "consoMixte":4.3,
+    "rejet":112
+  },
+  {
+    "model":"CITROEN DS4 e-HDi (115ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":5.1,
+    "consoExtUr":3.9,
+    "consoMixte":4.3,
+    "rejet":113
+  },
+  {
+    "model":"CITROEN Nouvelle C3 e-Hdi (115ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":5.5,
+    "consoExtUr":3.8,
+    "consoMixte":4.4,
+    "rejet":114
+  },
+  {
+    "model":"CITROEN DS4 e-HDi (115ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":4.8,
+    "consoExtUr":4.1,
+    "consoMixte":4.4,
+    "rejet":114
+  },
+  {
+    "model":"CITROEN DS5 BlueHdi (180ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":5.1,
+    "consoExtUr":4.1,
+    "consoMixte":4.4,
+    "rejet":114
+  },
+  {
+    "model":"CITROEN DS5 BlueHdi (180ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":5.2,
+    "consoExtUr":4.0,
+    "consoMixte":4.4,
+    "rejet":116
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL Blue HDi (150ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":5.2,
+    "consoExtUr":4.1,
+    "consoMixte":4.5,
+    "rejet":117
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL Blue HDi (150ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":5.2,
+    "consoExtUr":4.1,
+    "consoMixte":4.5,
+    "rejet":117
+  },
+  {
+    "model":"CITROEN C5 e-HDi (115ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":5.2,
+    "consoExtUr":4.1,
+    "consoMixte":4.5,
+    "rejet":117
+  },
+  {
+    "model":"CITROEN C5 Tourer HDi (115ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":5.2,
+    "consoExtUr":4.1,
+    "consoMixte":4.5,
+    "rejet":117
+  },
+  {
+    "model":"CITROEN Nouvelle C3 e-Hdi (115ch) BMP6",
+    "carburant":"GO",
+    "consoUrbain":5.6,
+    "consoExtUr":3.9,
+    "consoMixte":4.5,
+    "rejet":118
+  },
+  {
+    "model":"CITROEN DS5 BlueHdi (180ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":5.2,
+    "consoExtUr":4.1,
+    "consoMixte":4.5,
+    "rejet":118
+  },
+  {
+    "model":"CITROEN C3 PICASSO HDi (115ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":5.5,
+    "consoExtUr":4.0,
+    "consoMixte":4.6,
+    "rejet":119
+  },
+  {
+    "model":"CITROEN C4 AIRCROSS HDi (115ch) BVM6 4X2",
+    "carburant":"GO",
+    "consoUrbain":5.3,
+    "consoExtUr":4.2,
+    "consoMixte":4.6,
+    "rejet":119
+  },
+  {
+    "model":"CITROEN NEMO COMBI HDi (75ch) BVM5 Confort",
+    "carburant":"GO",
+    "consoUrbain":5.7,
+    "consoExtUr":3.8,
+    "consoMixte":4.5,
+    "rejet":119
+  },
+  {
+    "model":"CITROEN NEMO COMBI HDi (75ch) BVM5 Attraction",
+    "carburant":"GO",
+    "consoUrbain":5.7,
+    "consoExtUr":3.8,
+    "consoMixte":4.5,
+    "rejet":119
+  },
+  {
+    "model":"CITROEN BERLINGO e-Hdi (90ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":5.0,
+    "consoExtUr":4.4,
+    "consoMixte":4.6,
+    "rejet":120
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL Blue HDi (150ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":5.4,
+    "consoExtUr":4.2,
+    "consoMixte":4.6,
+    "rejet":120
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL Blue HDi (150ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":5.4,
+    "consoExtUr":4.2,
+    "consoMixte":4.6,
+    "rejet":120
+  },
+  {
+    "model":"CITROEN C5 HDi (115ch) BVMßßßßß",
+    "carburant":"GO",
+    "consoUrbain":5.3,
+    "consoExtUr":4.2,
+    "consoMixte":4.6,
+    "rejet":120
+  },
+  {
+    "model":"CITROEN C5 Tourer HDi (115ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":5.3,
+    "consoExtUr":4.2,
+    "consoMixte":4.6,
+    "rejet":120
+  },
+  {
+    "model":"CITROEN DS4 e-HDi (115ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":5.9,
+    "consoExtUr":4.0,
+    "consoMixte":4.7,
+    "rejet":122
+  },
+  {
+    "model":"CITROEN BERLINGO Hdi (90ch) BVM5",
+    "carburant":"GO",
+    "consoUrbain":5.3,
+    "consoExtUr":4.4,
+    "consoMixte":4.7,
+    "rejet":123
+  },
+  {
+    "model":"CITROEN DS5 Hdi (160ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":5.9,
+    "consoExtUr":4.1,
+    "consoMixte":4.8,
+    "rejet":125
+  },
+  {
+    "model":"CITROEN C3 PICASSO HDi (115ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":6.2,
+    "consoExtUr":4.2,
+    "consoMixte":4.9,
+    "rejet":127
+  },
+  {
+    "model":"CITROEN C4 HDi (150ch) FAP BVM6",
+    "carburant":"GO",
+    "consoUrbain":6.5,
+    "consoExtUr":4.0,
+    "consoMixte":4.9,
+    "rejet":127
+  },
+  {
+    "model":"CITROEN DS5 Hdi (160ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":6.0,
+    "consoExtUr":4.2,
+    "consoMixte":4.9,
+    "rejet":128
+  },
+  {
+    "model":"CITROEN C4 AIRCROSS HDi (115ch) BVM6 4X4",
+    "carburant":"GO",
+    "consoUrbain":5.6,
+    "consoExtUr":4.5,
+    "consoMixte":4.9,
+    "rejet":129
+  },
+  {
+    "model":"CITROEN C5 HDi (160ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":6.4,
+    "consoExtUr":4.1,
+    "consoMixte":4.9,
+    "rejet":129
+  },
+  {
+    "model":"CITROEN C4 HDi (150ch) FAP BVM6",
+    "carburant":"GO",
+    "consoUrbain":6.6,
+    "consoExtUr":4.1,
+    "consoMixte":5.0,
+    "rejet":130
+  },
+  {
+    "model":"CITROEN C5 HDi (140ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":6.3,
+    "consoExtUr":4.3,
+    "consoMixte":5.0,
+    "rejet":130
+  },
+  {
+    "model":"CITROEN DS4 Hdi BVM6",
+    "carburant":"GO",
+    "consoUrbain":6.1,
+    "consoExtUr":4.2,
+    "consoMixte":4.9,
+    "rejet":130
+  },
+  {
+    "model":"CITROEN DS4 HDi (160ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":6.1,
+    "consoExtUr":4.2,
+    "consoMixte":4.9,
+    "rejet":130
+  },
+  {
+    "model":"CITROEN BERLINGO Hdi (90ch) BVM5",
+    "carburant":"GO",
+    "consoUrbain":5.6,
+    "consoExtUr":4.7,
+    "consoMixte":5.0,
+    "rejet":131
+  },
+  {
+    "model":"CITROEN BERLINGO Hdi (90ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":5.2,
+    "consoExtUr":4.9,
+    "consoMixte":5.0,
+    "rejet":132
+  },
+  {
+    "model":"CITROEN C3 VTi BVM5",
+    "carburant":"ES",
+    "consoUrbain":7.5,
+    "consoExtUr":4.5,
+    "consoMixte":5.7,
+    "rejet":132
+  },
+  {
+    "model":"CITROEN C3 PICASSO VTI (120ch) BMP6",
+    "carburant":"ES",
+    "consoUrbain":7.4,
+    "consoExtUr":4.6,
+    "consoMixte":5.7,
+    "rejet":132
+  },
+  {
+    "model":"CITROEN DS3 CABRIO VTI (120 ch) BVM5",
+    "carburant":"ES",
+    "consoUrbain":7.5,
+    "consoExtUr":4.5,
+    "consoMixte":5.7,
+    "rejet":132
+  },
+  {
+    "model":"CITROEN DS3 VTI (120ch) BVAM5",
+    "carburant":"ES",
+    "consoUrbain":7.5,
+    "consoExtUr":4.5,
+    "consoMixte":5.7,
+    "rejet":132
+  },
+  {
+    "model":"CITROEN C4 AIRCROSS BVM6 4X2",
+    "carburant":"ES",
+    "consoUrbain":7.4,
+    "consoExtUr":4.9,
+    "consoMixte":5.8,
+    "rejet":133
+  },
+  {
+    "model":"CITROEN C5 Tourer (160ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":6.6,
+    "consoExtUr":4.3,
+    "consoMixte":5.1,
+    "rejet":133
+  },
+  {
+    "model":"CITROEN BERLINGO Hdi (115ch) BVM5",
+    "carburant":"GO",
+    "consoUrbain":5.7,
+    "consoExtUr":4.8,
+    "consoMixte":5.1,
+    "rejet":134
+  },
+  {
+    "model":"CITROEN C5 Tourer HDi (140ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":6.4,
+    "consoExtUr":4.3,
+    "consoMixte":5.1,
+    "rejet":134
+  },
+  {
+    "model":"CITROEN BERLINGO Hdi (75ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":6.1,
+    "consoExtUr":4.6,
+    "consoMixte":5.2,
+    "rejet":135
+  },
+  {
+    "model":"CITROEN BERLINGO Hdi (90ch) BVM5",
+    "carburant":"GO",
+    "consoUrbain":6.1,
+    "consoExtUr":4.6,
+    "consoMixte":5.2,
+    "rejet":135
+  },
+  {
+    "model":"CITROEN DS3 THP (155ch) BVM6",
+    "carburant":"ES",
+    "consoUrbain":7.9,
+    "consoExtUr":4.5,
+    "consoMixte":5.8,
+    "rejet":135
+  },
+  {
+    "model":"CITROEN BERLINGO Hdi (90ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":5.8,
+    "consoExtUr":4.8,
+    "consoMixte":5.2,
+    "rejet":136
+  },
+  {
+    "model":"CITROEN C3 PICASSO VTI (120ch) BMP6",
+    "carburant":"ES",
+    "consoUrbain":8.0,
+    "consoExtUr":4.8,
+    "consoMixte":6.0,
+    "rejet":137
+  },
+  {
+    "model":"CITROEN C4 AIRCROSS BVM6 4X2",
+    "carburant":"ES",
+    "consoUrbain":7.7,
+    "consoExtUr":4.9,
+    "consoMixte":6.0,
+    "rejet":137
+  },
+  {
+    "model":"CITROEN DS3 CABRIO THP (155ch) BVM6",
+    "carburant":"ES",
+    "consoUrbain":8.0,
+    "consoExtUr":4.8,
+    "consoMixte":5.9,
+    "rejet":137
+  },
+  {
+    "model":"CITROEN C3 VTi BVM5",
+    "carburant":"ES",
+    "consoUrbain":8.0,
+    "consoExtUr":4.9,
+    "consoMixte":6.0,
+    "rejet":138
+  },
+  {
+    "model":"CITROEN DS3 VTI (120ch) BVAM5",
+    "carburant":"ES",
+    "consoUrbain":8.0,
+    "consoExtUr":4.9,
+    "consoMixte":6.0,
+    "rejet":138
+  },
+  {
+    "model":"CITROEN BERLINGO Hdi (90ch) BVM5",
+    "carburant":"GO",
+    "consoUrbain":6.2,
+    "consoExtUr":4.8,
+    "consoMixte":5.3,
+    "rejet":139
+  },
+  {
+    "model":"CITROEN Nouveau C4 Picasso THP (155ch) BVM6",
+    "carburant":"ES",
+    "consoUrbain":8.2,
+    "consoExtUr":4.8,
+    "consoMixte":6.0,
+    "rejet":139
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL THP (155ch) BVM6",
+    "carburant":"ES",
+    "consoUrbain":8.2,
+    "consoExtUr":4.8,
+    "consoMixte":6.0,
+    "rejet":139
+  },
+  {
+    "model":"CITROEN C3 PICASSO VTi (95ch)",
+    "carburant":"ES",
+    "consoUrbain":8.2,
+    "consoExtUr":4.9,
+    "consoMixte":6.1,
+    "rejet":140
+  },
+  {
+    "model":"CITROEN C4 VTi BVM5 (95ch)",
+    "carburant":"ES",
+    "consoUrbain":8.2,
+    "consoExtUr":4.9,
+    "consoMixte":6.1,
+    "rejet":140
+  },
+  {
+    "model":"CITROEN C4 AIRCROSS HDi (150ch) BVM6 4X2",
+    "carburant":"GO",
+    "consoUrbain":6.6,
+    "consoExtUr":4.7,
+    "consoMixte":5.4,
+    "rejet":141
+  },
+  {
+    "model":"CITROEN Nouveau C4 Picasso THP (155ch) BVM6",
+    "carburant":"ES",
+    "consoUrbain":8.3,
+    "consoExtUr":4.9,
+    "consoMixte":6.1,
+    "rejet":142
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL THP (155ch) BVM6",
+    "carburant":"ES",
+    "consoUrbain":8.3,
+    "consoExtUr":4.9,
+    "consoMixte":6.1,
+    "rejet":142
+  },
+  {
+    "model":"CITROEN C4 VTi BVM5 (120ch)",
+    "carburant":"ES",
+    "consoUrbain":8.8,
+    "consoExtUr":4.7,
+    "consoMixte":6.2,
+    "rejet":143
+  },
+  {
+    "model":"CITROEN C4 VTi BVM5 (95ch)",
+    "carburant":"ES",
+    "consoUrbain":8.2,
+    "consoExtUr":5.1,
+    "consoMixte":6.2,
+    "rejet":143
+  },
+  {
+    "model":"CITROEN BERLINGO Hdi (90ch) BVM",
+    "carburant":"GO",
+    "consoUrbain":6.4,
+    "consoExtUr":5.0,
+    "consoMixte":5.5,
+    "rejet":144
+  },
+  {
+    "model":"CITROEN C5 VTI BMP6 (120ch)",
+    "carburant":"ES",
+    "consoUrbain":8.3,
+    "consoExtUr":5.0,
+    "consoMixte":6.2,
+    "rejet":144
+  },
+  {
+    "model":"CITROEN DS4 Vti (120ch) BVM",
+    "carburant":"ES",
+    "consoUrbain":8.3,
+    "consoExtUr":5.0,
+    "consoMixte":6.2,
+    "rejet":144
+  },
+  {
+    "model":"CITROEN C3 PICASSO VTi (95ch)",
+    "carburant":"ES",
+    "consoUrbain":8.4,
+    "consoExtUr":5.1,
+    "consoMixte":6.3,
+    "rejet":145
+  },
+  {
+    "model":"CITROEN C3 PICASSO VTI (120ch) BVM",
+    "carburant":"ES",
+    "consoUrbain":8.6,
+    "consoExtUr":5.0,
+    "consoMixte":6.3,
+    "rejet":145
+  },
+  {
+    "model":"CITROEN C4 THP (155ch) BMP6",
+    "carburant":"ES",
+    "consoUrbain":8.4,
+    "consoExtUr":5.0,
+    "consoMixte":6.3,
+    "rejet":145
+  },
+  {
+    "model":"CITROEN Nouveau C4 Picasso VTi (120ch) BVM5",
+    "carburant":"ES",
+    "consoUrbain":8.5,
+    "consoExtUr":4.9,
+    "consoMixte":6.3,
+    "rejet":145
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL Vti (120ch) BVM5",
+    "carburant":"ES",
+    "consoUrbain":8.5,
+    "consoExtUr":4.9,
+    "consoMixte":6.3,
+    "rejet":145
+  },
+  {
+    "model":"CITROEN Nouveau Grand C4 Picasso 7PL Vti (120ch) BVM5",
+    "carburant":"ES",
+    "consoUrbain":8.5,
+    "consoExtUr":4.9,
+    "consoMixte":6.3,
+    "rejet":145
+  },
+  {
+    "model":"CITROEN C4 VTi BVM5 (120ch)",
+    "carburant":"ES",
+    "consoUrbain":8.9,
+    "consoExtUr":4.8,
+    "consoMixte":6.3,
+    "rejet":146
+  },
+  {
+    "model":"CITROEN C4 AIRCROSS HDi (150ch) BVM6 4X4",
+    "carburant":"GO",
+    "consoUrbain":6.8,
+    "consoExtUr":4.9,
+    "consoMixte":5.6,
+    "rejet":146
+  },
+  {
+    "model":"CITROEN C4 THP (155ch) BMP6",
+    "carburant":"ES",
+    "consoUrbain":8.6,
+    "consoExtUr":5.1,
+    "consoMixte":6.4,
+    "rejet":148
+  },
+  {
+    "model":"CITROEN C3 PICASSO VTI (120ch) BVM",
+    "carburant":"ES",
+    "consoUrbain":9.0,
+    "consoExtUr":4.9,
+    "consoMixte":6.4,
+    "rejet":149
+  },
+  {
+    "model":"CITROEN C5 Tourer VTI (120ch) BMP6",
+    "carburant":"ES",
+    "consoUrbain":8.5,
+    "consoExtUr":5.2,
+    "consoMixte":6.4,
+    "rejet":149
+  },
+  {
+    "model":"CITROEN DS3 RACING BCVM6",
+    "carburant":"ES",
+    "consoUrbain":8.7,
+    "consoExtUr":4.9,
+    "consoMixte":6.4,
+    "rejet":149
+  },
+  {
+    "model":"CITROEN DS4 HDi (160ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":7.4,
+    "consoExtUr":4.7,
+    "consoMixte":5.7,
+    "rejet":149
+  },
+  {
+    "model":"CITROEN DS4 THP (200ch) BVM6",
+    "carburant":"ES",
+    "consoUrbain":8.4,
+    "consoExtUr":5.2,
+    "consoMixte":6.4,
+    "rejet":149
+  },
+  {
+    "model":"CITROEN C3 VTi (120ch) BVA4",
+    "carburant":"ES",
+    "consoUrbain":9.3,
+    "consoExtUr":4.9,
+    "consoMixte":6.5,
+    "rejet":150
+  },
+  {
+    "model":"CITROEN DS3 VTI (120ch) BVA",
+    "carburant":"ES",
+    "consoUrbain":9.3,
+    "consoExtUr":4.9,
+    "consoMixte":6.5,
+    "rejet":150
+  },
+  {
+    "model":"CITROEN C5 THP (155ch) BVM6",
+    "carburant":"ES",
+    "consoUrbain":9.3,
+    "consoExtUr":5.1,
+    "consoMixte":6.7,
+    "rejet":153
+  },
+  {
+    "model":"CITROEN DS3 CABRIO VTI (120 ch) BVA4",
+    "carburant":"ES",
+    "consoUrbain":9.7,
+    "consoExtUr":4.9,
+    "consoMixte":6.7,
+    "rejet":154
+  },
+  {
+    "model":"CITROEN DS5 Hdi (160ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":7.7,
+    "consoExtUr":4.9,
+    "consoMixte":5.9,
+    "rejet":154
+  },
+  {
+    "model":"CITROEN BERLINGO VTi (95ch) BVM",
+    "carburant":"ES",
+    "consoUrbain":9.2,
+    "consoExtUr":5.3,
+    "consoMixte":6.7,
+    "rejet":155
+  },
+  {
+    "model":"CITROEN C3 VTi (120ch) BVA4",
+    "carburant":"ES",
+    "consoUrbain":9.5,
+    "consoExtUr":5.1,
+    "consoMixte":6.7,
+    "rejet":155
+  },
+  {
+    "model":"CITROEN C5 Tourer THP (155ch) BVM6",
+    "carburant":"ES",
+    "consoUrbain":9.5,
+    "consoExtUr":5.2,
+    "consoMixte":6.8,
+    "rejet":155
+  },
+  {
+    "model":"CITROEN C5 HDi (200ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":8.0,
+    "consoExtUr":4.7,
+    "consoMixte":5.9,
+    "rejet":155
+  },
+  {
+    "model":"CITROEN C8 2.0 HDi (135ch) FAP BVM6",
+    "carburant":"GO",
+    "consoUrbain":7.4,
+    "consoExtUr":5.0,
+    "consoMixte":5.9,
+    "rejet":155
+  },
+  {
+    "model":"CITROEN C8 2.0 HDi (160ch) FAP BVM6",
+    "carburant":"GO",
+    "consoUrbain":7.4,
+    "consoExtUr":5.0,
+    "consoMixte":5.9,
+    "rejet":155
+  },
+  {
+    "model":"CITROEN DS3 VTI (120ch) BVA",
+    "carburant":"ES",
+    "consoUrbain":9.5,
+    "consoExtUr":5.1,
+    "consoMixte":6.7,
+    "rejet":155
+  },
+  {
+    "model":"CITROEN DS5 THP (200ch) BVM6",
+    "carburant":"ES",
+    "consoUrbain":8.9,
+    "consoExtUr":5.5,
+    "consoMixte":6.7,
+    "rejet":155
+  },
+  {
+    "model":"CITROEN DS5 Hdi (160ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":7.9,
+    "consoExtUr":5.1,
+    "consoMixte":6.1,
+    "rejet":158
+  },
+  {
+    "model":"CITROEN C4 VTI (120ch) BVA4",
+    "carburant":"ES",
+    "consoUrbain":10.0,
+    "consoExtUr":5.1,
+    "consoMixte":6.9,
+    "rejet":159
+  },
+  {
+    "model":"CITROEN C5 Tourer HDi (200ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":8.2,
+    "consoExtUr":4.9,
+    "consoMixte":6.1,
+    "rejet":159
+  },
+  {
+    "model":"CITROEN C4 VTI (120ch) BVA4",
+    "carburant":"ES",
+    "consoUrbain":10.1,
+    "consoExtUr":5.2,
+    "consoMixte":7.0,
+    "rejet":162
+  },
+  {
+    "model":"CITROEN C5 Tourer HDi (160ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":8.2,
+    "consoExtUr":5.1,
+    "consoMixte":6.2,
+    "rejet":163
+  },
+  {
+    "model":"CITROEN C5 HDi (160ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":8.2,
+    "consoExtUr":5.1,
+    "consoMixte":6.2,
+    "rejet":163
+  },
+  {
+    "model":"CITROEN BERLINGO VTi (120ch) BVM",
+    "carburant":"ES",
+    "consoUrbain":9.4,
+    "consoExtUr":5.8,
+    "consoMixte":7.1,
+    "rejet":164
+  },
+  {
+    "model":"CITROEN DS5 THP (155ch) BVA6",
+    "carburant":"ES",
+    "consoUrbain":9.9,
+    "consoExtUr":5.6,
+    "consoMixte":7.1,
+    "rejet":165
+  },
+  {
+    "model":"CITROEN C5 Tourer THP (155ch) BVA6",
+    "carburant":"ES",
+    "consoUrbain":10.5,
+    "consoExtUr":5.6,
+    "consoMixte":7.3,
+    "rejet":169
+  },
+  {
+    "model":"CITROEN C5 THP (155ch) BVA6",
+    "carburant":"ES",
+    "consoUrbain":10.5,
+    "consoExtUr":5.6,
+    "consoMixte":7.3,
+    "rejet":169
+  },
+  {
+    "model":"CITROEN DS5 THP (155ch) BVA6",
+    "carburant":"ES",
+    "consoUrbain":10.3,
+    "consoExtUr":5.6,
+    "consoMixte":7.3,
+    "rejet":169
+  },
+  {
+    "model":"CITROEN JUMPY Multispace L2H1 HDi (125ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":7.6,
+    "consoExtUr":6.0,
+    "consoMixte":6.6,
+    "rejet":172
+  },
+  {
+    "model":"CITROEN JUMPY Multispace L1H1 8/9PL HDi (125ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":7.6,
+    "consoExtUr":6.0,
+    "consoMixte":6.6,
+    "rejet":172
+  },
+  {
+    "model":"CITROEN JUMPY Multispace L1H1 HDi (160ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":7.6,
+    "consoExtUr":6.0,
+    "consoMixte":6.6,
+    "rejet":172
+  },
+  {
+    "model":"CITROEN JUMPY Multispace L2H1 HDi (125ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":7.6,
+    "consoExtUr":6.0,
+    "consoMixte":6.6,
+    "rejet":172
+  },
+  {
+    "model":"CITROEN JUMPY Multispace L2H1 HDi (160ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":7.6,
+    "consoExtUr":6.0,
+    "consoMixte":6.6,
+    "rejet":172
+  },
+  {
+    "model":"CITROEN JUMPY Multispace L2H1 HDi (125ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":7.6,
+    "consoExtUr":6.0,
+    "consoMixte":6.6,
+    "rejet":172
+  },
+  {
+    "model":"CITROEN JUMPY Multispace L2H1 HDi (160ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":7.6,
+    "consoExtUr":6.0,
+    "consoMixte":6.6,
+    "rejet":172
+  },
+  {
+    "model":"CITROEN DS4 THP (160ch) BVA6",
+    "carburant":"ES",
+    "consoUrbain":10.6,
+    "consoExtUr":6.0,
+    "consoMixte":7.7,
+    "rejet":178
+  },
+  {
+    "model":"CITROEN JUMPY Multispace L1H1 8/9PL HDi (95ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":8.1,
+    "consoExtUr":6.1,
+    "consoMixte":6.8,
+    "rejet":179
+  },
+  {
+    "model":"CITROEN JUMPY Multispace L1H1 8/9PL HDi (95ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":8.1,
+    "consoExtUr":6.1,
+    "consoMixte":6.8,
+    "rejet":179
+  },
+  {
+    "model":"CITROEN JUMPER COMBI CONFORT 30 L1H1 e-HDi (130ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":8.6,
+    "consoExtUr":6.1,
+    "consoMixte":7.0,
+    "rejet":184
+  },
+  {
+    "model":"CITROEN JUMPER COMBI CONFORT 30 L1H1 e-HDi (150ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":8.6,
+    "consoExtUr":6.1,
+    "consoMixte":7.0,
+    "rejet":184
+  },
+  {
+    "model":"CITROEN JUMPER COMBI CONFORT 30 L1H1 HDi (110ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":9.3,
+    "consoExtUr":5.8,
+    "consoMixte":7.1,
+    "rejet":187
+  },
+  {
+    "model":"CITROEN JUMPER COMBI CONFORT 33 L2H2 HDi (130ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":8.8,
+    "consoExtUr":6.3,
+    "consoMixte":7.2,
+    "rejet":189
+  },
+  {
+    "model":"CITROEN JUMPER COMBI CONFORT 33 L2H2 e-HDi (150ch) BVM6",
+    "carburant":"GO",
+    "consoUrbain":8.8,
+    "consoExtUr":6.3,
+    "consoMixte":7.2,
+    "rejet":189
+  },
+  {
+    "model":"CITROEN JUMPY Multispace L1H1 HDi (160ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":9.0,
+    "consoExtUr":6.8,
+    "consoMixte":7.6,
+    "rejet":199
+  },
+  {
+    "model":"CITROEN JUMPY Multispace L2H1 HDi (160ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":9.0,
+    "consoExtUr":6.8,
+    "consoMixte":7.6,
+    "rejet":199
+  }
+]

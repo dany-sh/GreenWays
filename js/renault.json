@@ -1,0 +1,1026 @@
+[
+  {
+    "model":"RENAULT ZOE Intens",
+    "carburant":"EL",
+    "consoUrbain":0,
+    "consoExtUrb":0,
+    "consoMixte":0,
+    "rejet":0
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO EnergydCi (90ch) eco2 83g",
+    "carburant":"GO",
+    "consoUrbain":3.6,
+    "consoExtUrb":3.0,
+    "consoMixte":3.2,
+    "rejet":83
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Estate EnergydCi (90ch) eco2 83g",
+    "carburant":"GO",
+    "consoUrbain":3.6,
+    "consoExtUrb":3.0,
+    "consoMixte":3.2,
+    "rejet":83
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Graphite EnergydCi (90ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.0,
+    "consoExtUrb":3.2,
+    "consoMixte":3.5,
+    "rejet":90
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Estate Graphite EnergydCi (90ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.0,
+    "consoExtUrb":3.2,
+    "consoMixte":3.5,
+    "rejet":90
+  },
+  {
+    "model":"RENAULT MEGANE Berline EnergydCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":3.9,
+    "consoExtUrb":3.2,
+    "consoMixte":3.5,
+    "rejet":90
+  },
+  {
+    "model":"RENAULT MEGANE Coupé EnergydCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":3.9,
+    "consoExtUrb":3.2,
+    "consoMixte":3.5,
+    "rejet":90
+  },
+  {
+    "model":"RENAULT MEGANE Estate EnergydCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":3.9,
+    "consoExtUrb":3.2,
+    "consoMixte":3.5,
+    "rejet":90
+  },
+  {
+    "model":"RENAULT CAPTUR EnergydCi (90ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.0,
+    "consoExtUrb":3.4,
+    "consoMixte":3.6,
+    "rejet":95
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Graphite dCi (75ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.3,
+    "consoExtUrb":3.2,
+    "consoMixte":3.6,
+    "rejet":95
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Estate Graphite dCi (75ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.3,
+    "consoExtUrb":3.2,
+    "consoMixte":3.6,
+    "rejet":95
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Graphite dCi (90ch) EDC eco2",
+    "carburant":"GO",
+    "consoUrbain":4.3,
+    "consoExtUrb":3.3,
+    "consoMixte":3.7,
+    "rejet":95
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Estate Graphite dCi (90ch) EDC eco2",
+    "carburant":"GO",
+    "consoUrbain":4.3,
+    "consoExtUrb":3.3,
+    "consoMixte":3.7,
+    "rejet":95
+  },
+  {
+    "model":"RENAULT MEGANE Berline Akaju EnergydCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.2,
+    "consoExtUrb":3.5,
+    "consoMixte":3.8,
+    "rejet":98
+  },
+  {
+    "model":"RENAULT CAPTUR dCi (90ch) EDC eco2",
+    "carburant":"GO",
+    "consoUrbain":4.6,
+    "consoExtUrb":3.6,
+    "consoMixte":3.9,
+    "rejet":103
+  },
+  {
+    "model":"RENAULT MEGANE Berline EnergydCi (130ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.8,
+    "consoExtUrb":3.6,
+    "consoMixte":4.0,
+    "rejet":104
+  },
+  {
+    "model":"RENAULT MEGANE Coupé EnergydCi (130ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.8,
+    "consoExtUrb":3.6,
+    "consoMixte":4.0,
+    "rejet":104
+  },
+  {
+    "model":"RENAULT MEGANE Estate EnergydCi (130ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.8,
+    "consoExtUrb":3.6,
+    "consoMixte":4.0,
+    "rejet":104
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Graphite EnergyTCe (90ch) eco2",
+    "carburant":"ES",
+    "consoUrbain":5.6,
+    "consoExtUrb":3.9,
+    "consoMixte":4.5,
+    "rejet":105
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Estate Graphite EnergyTCe (90ch) eco2",
+    "carburant":"ES",
+    "consoUrbain":5.6,
+    "consoExtUrb":3.9,
+    "consoMixte":4.5,
+    "rejet":105
+  },
+  {
+    "model":"RENAULT SCENIC Lounge EnergydCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUrb":3.9,
+    "consoMixte":4.1,
+    "rejet":105
+  },
+  {
+    "model":"RENAULT Grand SCENIC 2014 5PL EnergydCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUrb":3.9,
+    "consoMixte":4.1,
+    "rejet":105
+  },
+  {
+    "model":"RENAULT Grand SCENIC Lounge 7PL EnergydCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUrb":3.9,
+    "consoMixte":4.1,
+    "rejet":105
+  },
+  {
+    "model":"RENAULT SCENIC Xmod EnergydCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.5,
+    "consoExtUrb":3.9,
+    "consoMixte":4.1,
+    "rejet":105
+  },
+  {
+    "model":"RENAULT MEGANE Berline dCi (95ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUrb":3.5,
+    "consoMixte":4.1,
+    "rejet":106
+  },
+  {
+    "model":"RENAULT MEGANE Estate dCi (95ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUrb":3.5,
+    "consoMixte":4.1,
+    "rejet":106
+  },
+  {
+    "model":"RENAULT LAGUNA dCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUrb":3.7,
+    "consoMixte":4.2,
+    "rejet":109
+  },
+  {
+    "model":"RENAULT LAGUNA dCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUrb":3.7,
+    "consoMixte":4.2,
+    "rejet":109
+  },
+  {
+    "model":"RENAULT MEGANE Coupé dCi (110ch) EDC eco2",
+    "carburant":"GO",
+    "consoUrbain":5.1,
+    "consoExtUrb":3.7,
+    "consoMixte":4.2,
+    "rejet":110
+  },
+  {
+    "model":"RENAULT MEGANE Berline dCi (110ch) EDC eco2",
+    "carburant":"GO",
+    "consoUrbain":5.1,
+    "consoExtUrb":3.7,
+    "consoMixte":4.2,
+    "rejet":110
+  },
+  {
+    "model":"RENAULT MEGANE Estate dCi (110ch) EDC eco2",
+    "carburant":"GO",
+    "consoUrbain":5.1,
+    "consoExtUrb":3.7,
+    "consoMixte":4.2,
+    "rejet":110
+  },
+  {
+    "model":"RENAULT MEGANE Berline Akaju EnergydCi (130ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.0,
+    "consoExtUrb":3.9,
+    "consoMixte":4.3,
+    "rejet":111
+  },
+  {
+    "model":"RENAULT LAGUNA dCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.0,
+    "consoExtUrb":3.9,
+    "consoMixte":4.3,
+    "rejet":112
+  },
+  {
+    "model":"RENAULT CAPTUR EnergyTCe (90ch) eco2",
+    "carburant":"ES",
+    "consoUrbain":5.9,
+    "consoExtUrb":4.3,
+    "consoMixte":4.9,
+    "rejet":113
+  },
+  {
+    "model":"RENAULT LAGUNA dCi (110ch) EDC eco2",
+    "carburant":"GO",
+    "consoUrbain":5.1,
+    "consoExtUrb":3.9,
+    "consoMixte":4.3,
+    "rejet":113
+  },
+  {
+    "model":"RENAULT LAGUNA dCi (110ch) EDC eco2",
+    "carburant":"GO",
+    "consoUrbain":5.1,
+    "consoExtUrb":3.9,
+    "consoMixte":4.3,
+    "rejet":113
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO TCe (90ch) eco2",
+    "carburant":"ES",
+    "consoUrbain":6.2,
+    "consoExtUrb":4.2,
+    "consoMixte":4.9,
+    "rejet":114
+  },
+  {
+    "model":"RENAULT Grand SCENIC 2014 5PL EnergydCi (130ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.1,
+    "consoExtUrb":4.0,
+    "consoMixte":4.4,
+    "rejet":114
+  },
+  {
+    "model":"RENAULT Grand SCENIC Businness 7PL EnergydCi (130ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.1,
+    "consoExtUrb":4.0,
+    "consoMixte":4.4,
+    "rejet":114
+  },
+  {
+    "model":"RENAULT SCENIC Xmod EnergydCi (130ch)",
+    "carburant":"GO",
+    "consoUrbain":5.1,
+    "consoExtUrb":4.0,
+    "consoMixte":4.4,
+    "rejet":114
+  },
+  {
+    "model":"RENAULT LAGUNA dCi (110ch) EDC eco2",
+    "carburant":"GO",
+    "consoUrbain":5.1,
+    "consoExtUrb":4.0,
+    "consoMixte":4.4,
+    "rejet":115
+  },
+  {
+    "model":"RENAULT MEGANE Coup�-Cabriolet EnergydCi (110ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":4.9,
+    "consoExtUrb":4.2,
+    "consoMixte":4.5,
+    "rejet":115
+  },
+  {
+    "model":"RENAULT MEGANE Coupé-Cabriolet EnergydCi (130ch)",
+    "carburant":"GO",
+    "consoUrbain":5.3,
+    "consoExtUrb":3.9,
+    "consoMixte":4.4,
+    "rejet":115
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO 1.2 16V (75ch) GPL",
+    "carburant":"GP / ES",
+    "consoUrbain":9.3,
+    "consoExtUrb":6.0,
+    "consoMixte":7.2,
+    "rejet":116
+  },
+  {
+    "model":"RENAULT SCENIC EnergydCi (130ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.3,
+    "consoExtUrb":4.2,
+    "consoMixte":4.6,
+    "rejet":117
+  },
+  {
+    "model":"RENAULT Grand SCENIC 5PL EnergydCi (130ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.3,
+    "consoExtUrb":4.2,
+    "consoMixte":4.6,
+    "rejet":117
+  },
+  {
+    "model":"RENAULT Grand SCENIC 7PL EnergydCi (130ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.3,
+    "consoExtUrb":4.2,
+    "consoMixte":4.6,
+    "rejet":117
+  },
+  {
+    "model":"RENAULT LAGUNA EnergydCi (130ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.5,
+    "consoExtUrb":4.0,
+    "consoMixte":4.5,
+    "rejet":118
+  },
+  {
+    "model":"RENAULT LAGUNA EnergydCi (175ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.5,
+    "consoExtUrb":4.0,
+    "consoMixte":4.5,
+    "rejet":118
+  },
+  {
+    "model":"RENAULT LAGUNA EnergydCi (150ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.5,
+    "consoExtUrb":4.0,
+    "consoMixte":4.5,
+    "rejet":118
+  },
+  {
+    "model":"RENAULT MEGANE Berline EnergyTCe (115ch) eco2",
+    "carburant":"ES",
+    "consoUrbain":6.4,
+    "consoExtUrb":4.6,
+    "consoMixte":5.3,
+    "rejet":119
+  },
+  {
+    "model":"RENAULT MEGANE Estate EnergyTCe (115ch) eco2",
+    "carburant":"ES",
+    "consoUrbain":6.4,
+    "consoExtUrb":4.6,
+    "consoMixte":5.3,
+    "rejet":119
+  },
+  {
+    "model":"RENAULT MEGANE Coupé EnergyTCe (115ch) eco2",
+    "carburant":"ES",
+    "consoUrbain":6.4,
+    "consoExtUrb":4.6,
+    "consoMixte":5.3,
+    "rejet":119
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Graphite TCe (120ch) EDC eco2",
+    "carburant":"ES",
+    "consoUrbain":6.6,
+    "consoExtUrb":4.4,
+    "consoMixte":5.2,
+    "rejet":120
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO TCe (120ch) EDC eco2",
+    "carburant":"ES",
+    "consoUrbain":6.6,
+    "consoExtUrb":4.4,
+    "consoMixte":5.2,
+    "rejet":120
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Estate Graphite TCe (120ch) EDC eco2",
+    "carburant":"ES",
+    "consoUrbain":6.6,
+    "consoExtUrb":4.4,
+    "consoMixte":5.2,
+    "rejet":120
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Estate TCe (120ch) EDC eco2",
+    "carburant":"ES",
+    "consoUrbain":6.6,
+    "consoExtUrb":4.4,
+    "consoMixte":5.2,
+    "rejet":120
+  },
+  {
+    "model":"RENAULT LAGUNA EnergydCi (130ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.5,
+    "consoExtUrb":4.1,
+    "consoMixte":4.6,
+    "rejet":120
+  },
+  {
+    "model":"RENAULT LAGUNA EnergydCi (175ch) eco2",
+    "carburant":"GO",
+    "consoUrbain":5.5,
+    "consoExtUrb":4.1,
+    "consoMixte":4.6,
+    "rejet":120
+  },
+  {
+    "model":"RENAULT SCENIC Xmod dCi (110ch)",
+    "carburant":"GO",
+    "consoUrbain":5.5,
+    "consoExtUrb":4.1,
+    "consoMixte":4.6,
+    "rejet":120
+  },
+  {
+    "model":"RENAULT MEGANE Coupé-Cabriolet EnergydCi (130ch)",
+    "carburant":"GO",
+    "consoUrbain":5.9,
+    "consoExtUrb":4.2,
+    "consoMixte":4.8,
+    "rejet":123
+  },
+  {
+    "model":"RENAULT MEGANE Coupé-Cabriolet dCi (110ch) EDC",
+    "carburant":"GO",
+    "consoUrbain":5.8,
+    "consoExtUrb":4.2,
+    "consoMixte":4.8,
+    "rejet":124
+  },
+  {
+    "model":"RENAULT MEGANE Berline EnergyTCe (130ch)",
+    "carburant":"ES",
+    "consoUrbain":6.7,
+    "consoExtUrb":4.6,
+    "consoMixte":5.4,
+    "rejet":124
+  },
+  {
+    "model":"RENAULT MEGANE Estate EnergyTCe (130ch)",
+    "carburant":"ES",
+    "consoUrbain":6.7,
+    "consoExtUrb":4.6,
+    "consoMixte":5.4,
+    "rejet":124
+  },
+  {
+    "model":"RENAULT MEGANE Coupé EnergyTCe (130ch)",
+    "carburant":"ES",
+    "consoUrbain":6.7,
+    "consoExtUrb":4.6,
+    "consoMixte":5.4,
+    "rejet":124
+  },
+  {
+    "model":"RENAULT SCENIC Xmod dCi (110ch) EDC",
+    "carburant":"GO",
+    "consoUrbain":5.4,
+    "consoExtUrb":4.3,
+    "consoMixte":4.7,
+    "rejet":124
+  },
+  {
+    "model":"RENAULT CAPTUR TCe (120ch) EDC",
+    "carburant":"ES",
+    "consoUrbain":6.6,
+    "consoExtUrb":4.7,
+    "consoMixte":5.4,
+    "rejet":125
+  },
+  {
+    "model":"RENAULT LAGUNA dCi (175ch)",
+    "carburant":"GO",
+    "consoUrbain":6.3,
+    "consoExtUrb":4.0,
+    "consoMixte":4.8,
+    "rejet":126
+  },
+  {
+    "model":"RENAULT LAGUNA 4Control dCi (130ch)",
+    "carburant":"GO",
+    "consoUrbain":6.3,
+    "consoExtUrb":4.0,
+    "consoMixte":4.8,
+    "rejet":126
+  },
+  {
+    "model":"RENAULT LAGUNA 4Control dCi (175ch)",
+    "carburant":"GO",
+    "consoUrbain":6.3,
+    "consoExtUrb":4.0,
+    "consoMixte":4.8,
+    "rejet":126
+  },
+  {
+    "model":"RENAULT LAGUNA 4Control dCi (130ch)",
+    "carburant":"GO",
+    "consoUrbain":6.3,
+    "consoExtUrb":4.0,
+    "consoMixte":4.8,
+    "rejet":126
+  },
+  {
+    "model":"RENAULT LAGUNA 4Control dCi (175ch)",
+    "carburant":"GO",
+    "consoUrbain":6.3,
+    "consoExtUrb":4.0,
+    "consoMixte":4.8,
+    "rejet":126
+  },
+  {
+    "model":"RENAULT LATITUDE EnergydCi (150ch)",
+    "carburant":"GO",
+    "consoUrbain":5.7,
+    "consoExtUrb":4.4,
+    "consoMixte":4.8,
+    "rejet":126
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO 1.2 16V (75ch)",
+    "carburant":"ES",
+    "consoUrbain":7.0,
+    "consoExtUrb":4.7,
+    "consoMixte":5.5,
+    "rejet":127
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO Estate 1.2 16V (75ch)",
+    "carburant":"ES",
+    "consoUrbain":7.0,
+    "consoExtUrb":4.7,
+    "consoMixte":5.5,
+    "rejet":127
+  },
+  {
+    "model":"RENAULT SCENIC dCi (110ch)",
+    "carburant":"GO",
+    "consoUrbain":5.8,
+    "consoExtUrb":4.4,
+    "consoMixte":4.9,
+    "rejet":128
+  },
+  {
+    "model":"RENAULT Grand SCENIC 5PL dCi (110ch)",
+    "carburant":"GO",
+    "consoUrbain":5.8,
+    "consoExtUrb":4.4,
+    "consoMixte":4.9,
+    "rejet":128
+  },
+  {
+    "model":"RENAULT Grand SCENIC 7PL dCi (110ch)",
+    "carburant":"GO",
+    "consoUrbain":5.8,
+    "consoExtUrb":4.4,
+    "consoMixte":4.9,
+    "rejet":128
+  },
+  {
+    "model":"RENAULT SCENIC Xmod dCi (110ch)",
+    "carburant":"GO",
+    "consoUrbain":5.8,
+    "consoExtUrb":4.4,
+    "consoMixte":4.9,
+    "rejet":128
+  },
+  {
+    "model":"RENAULT MEGANE Estate TCe (130ch) EDC",
+    "carburant":"ES",
+    "consoUrbain":7.4,
+    "consoExtUrb":4.5,
+    "consoMixte":5.6,
+    "rejet":129
+  },
+  {
+    "model":"RENAULT CLIO III 5p 1.2 16V (75ch)",
+    "carburant":"ES",
+    "consoUrbain":7.2,
+    "consoExtUrb":4.7,
+    "consoMixte":5.6,
+    "rejet":130
+  },
+  {
+    "model":"RENAULT CLIO III 3p 1.2 16V (75ch)",
+    "carburant":"ES",
+    "consoUrbain":7.2,
+    "consoExtUrb":4.7,
+    "consoMixte":5.6,
+    "rejet":130
+  },
+  {
+    "model":"RENAULT SCENIC EnergyTCe (115ch)",
+    "carburant":"ES",
+    "consoUrbain":7.2,
+    "consoExtUrb":5.2,
+    "consoMixte":5.9,
+    "rejet":135
+  },
+  {
+    "model":"RENAULT SCENIC Lounge EnergyTCe (130ch)",
+    "carburant":"ES",
+    "consoUrbain":7.5,
+    "consoExtUrb":5.4,
+    "consoMixte":6.2,
+    "rejet":140
+  },
+  {
+    "model":"RENAULT SCENIC Xmod EnergyTCe (115ch)",
+    "carburant":"ES",
+    "consoUrbain":7.5,
+    "consoExtUrb":5.4,
+    "consoMixte":6.1,
+    "rejet":140
+  },
+  {
+    "model":"RENAULT Nouvelle CLIO R.S. 1.6 T (200ch) EDC",
+    "carburant":"ES",
+    "consoUrbain":8.1,
+    "consoExtUrb":5.1,
+    "consoMixte":6.3,
+    "rejet":144
+  },
+  {
+    "model":"RENAULT MEGANE Coupé dCi (165ch)",
+    "carburant":"GO",
+    "consoUrbain":6.9,
+    "consoExtUrb":4.9,
+    "consoMixte":5.6,
+    "rejet":145
+  },
+  {
+    "model":"RENAULT MEGANE Coupé-Cabriolet EnergyTCe (130ch)",
+    "carburant":"ES",
+    "consoUrbain":7.9,
+    "consoExtUrb":5.5,
+    "consoMixte":6.4,
+    "rejet":145
+  },
+  {
+    "model":"RENAULT Grand SCENIC 2014 5PL EnergyTCe (130ch)",
+    "carburant":"ES",
+    "consoUrbain":7.7,
+    "consoExtUrb":5.6,
+    "consoMixte":6.4,
+    "rejet":145
+  },
+  {
+    "model":"RENAULT Grand SCENIC Lounge 7PL EnergyTCe (130ch)",
+    "carburant":"ES",
+    "consoUrbain":7.7,
+    "consoExtUrb":5.6,
+    "consoMixte":6.4,
+    "rejet":145
+  },
+  {
+    "model":"RENAULT SCENIC Xmod EnergyTCe (130ch)",
+    "carburant":"ES",
+    "consoUrbain":7.7,
+    "consoExtUrb":5.6,
+    "consoMixte":6.4,
+    "rejet":145
+  },
+  {
+    "model":"RENAULT Nouveau KOLEOS dCi (150ch)",
+    "carburant":"GO",
+    "consoUrbain":7.0,
+    "consoExtUrb":4.9,
+    "consoMixte":5.7,
+    "rejet":147
+  },
+  {
+    "model":"RENAULT ESPACE dCi (130ch)",
+    "carburant":"GO",
+    "consoUrbain":7.0,
+    "consoExtUrb":5.0,
+    "consoMixte":5.7,
+    "rejet":150
+  },
+  {
+    "model":"RENAULT Grand ESPACE 7PL dCi (130ch)",
+    "carburant":"GO",
+    "consoUrbain":7.0,
+    "consoExtUrb":5.0,
+    "consoMixte":5.7,
+    "rejet":150
+  },
+  {
+    "model":"RENAULT ESPACE dCi (150ch)",
+    "carburant":"GO",
+    "consoUrbain":7.0,
+    "consoExtUrb":5.0,
+    "consoMixte":5.7,
+    "rejet":150
+  },
+  {
+    "model":"RENAULT Grand ESPACE dCi (150ch)",
+    "carburant":"GO",
+    "consoUrbain":7.0,
+    "consoExtUrb":5.0,
+    "consoMixte":5.7,
+    "rejet":150
+  },
+  {
+    "model":"RENAULT ESPACE dCi (175ch)",
+    "carburant":"GO",
+    "consoUrbain":7.0,
+    "consoExtUrb":5.0,
+    "consoMixte":5.7,
+    "rejet":150
+  },
+  {
+    "model":"RENAULT Grand ESPACE dCi (175ch)",
+    "carburant":"GO",
+    "consoUrbain":7.0,
+    "consoExtUrb":5.0,
+    "consoMixte":5.7,
+    "rejet":150
+  },
+  {
+    "model":"RENAULT LAGUNA dCi (175ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":7.4,
+    "consoExtUrb":4.8,
+    "consoMixte":5.7,
+    "rejet":150
+  },
+  {
+    "model":"RENAULT LAGUNA dCi (175ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":7.4,
+    "consoExtUrb":4.8,
+    "consoMixte":5.7,
+    "rejet":150
+  },
+  {
+    "model":"RENAULT LAGUNA dCi (175ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":7.3,
+    "consoExtUrb":4.8,
+    "consoMixte":5.7,
+    "rejet":150
+  },
+  {
+    "model":"RENAULT LAGUNA 4Control dCi (175ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":7.4,
+    "consoExtUrb":4.8,
+    "consoMixte":5.7,
+    "rejet":150
+  },
+  {
+    "model":"RENAULT LAGUNA 4Control dCi (175ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":7.3,
+    "consoExtUrb":4.8,
+    "consoMixte":5.7,
+    "rejet":150
+  },
+  {
+    "model":"RENAULT MEGANE Coupé-Cabriolet EnergyTCe (130ch)",
+    "carburant":"ES",
+    "consoUrbain":8.2,
+    "consoExtUrb":5.8,
+    "consoMixte":6.7,
+    "rejet":152
+  },
+  {
+    "model":"RENAULT LATITUDE dCi (175ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":7.9,
+    "consoExtUrb":5.1,
+    "consoMixte":6.1,
+    "rejet":159
+  },
+  {
+    "model":"RENAULT Nouveau KOLEOS dCi (175ch) 4x4",
+    "carburant":"GO",
+    "consoUrbain":7.5,
+    "consoExtUrb":5.7,
+    "consoMixte":6.4,
+    "rejet":166
+  },
+  {
+    "model":"RENAULT ESPACE dCi (175ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":8.2,
+    "consoExtUrb":5.4,
+    "consoMixte":6.4,
+    "rejet":169
+  },
+  {
+    "model":"RENAULT Grand ESPACE dCi (175ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":8.2,
+    "consoExtUrb":5.4,
+    "consoMixte":6.4,
+    "rejet":169
+  },
+  {
+    "model":"RENAULT TRAFIC VP Gd dCi (115ch) BVR",
+    "carburant":"GO",
+    "consoUrbain":7.3,
+    "consoExtUrb":6.1,
+    "consoMixte":6.5,
+    "rejet":171
+  },
+  {
+    "model":"RENAULT TRAFIC VP dCi (115ch) BVR",
+    "carburant":"GO",
+    "consoUrbain":7.3,
+    "consoExtUrb":6.1,
+    "consoMixte":6.5,
+    "rejet":171
+  },
+  {
+    "model":"RENAULT TRAFIC VP dCi (115ch) BVR",
+    "carburant":"GO",
+    "consoUrbain":7.3,
+    "consoExtUrb":6.1,
+    "consoMixte":6.5,
+    "rejet":171
+  },
+  {
+    "model":"RENAULT TRAFIC VP Gd dCi (115ch) BVR",
+    "carburant":"GO",
+    "consoUrbain":7.3,
+    "consoExtUrb":6.1,
+    "consoMixte":6.5,
+    "rejet":171
+  },
+  {
+    "model":"RENAULT MEGANE Coupé R.S. 2.0T (265ch) S&S",
+    "carburant":"ES",
+    "consoUrbain":9.8,
+    "consoExtUrb":6.2,
+    "consoMixte":7.5,
+    "rejet":174
+  },
+  {
+    "model":"RENAULT TRAFIC VP dCi (90ch)",
+    "carburant":"GO",
+    "consoUrbain":8.1,
+    "consoExtUrb":5.8,
+    "consoMixte":6.7,
+    "rejet":175
+  },
+  {
+    "model":"RENAULT TRAFIC VP Gd dCi (115ch)",
+    "carburant":"GO",
+    "consoUrbain":8.1,
+    "consoExtUrb":5.8,
+    "consoMixte":6.7,
+    "rejet":175
+  },
+  {
+    "model":"RENAULT TRAFIC VP dCi (115ch)",
+    "carburant":"GO",
+    "consoUrbain":8.1,
+    "consoExtUrb":5.8,
+    "consoMixte":6.7,
+    "rejet":175
+  },
+  {
+    "model":"RENAULT TRAFIC VP dCi (90ch)",
+    "carburant":"GO",
+    "consoUrbain":8.1,
+    "consoExtUrb":5.8,
+    "consoMixte":6.7,
+    "rejet":175
+  },
+  {
+    "model":"RENAULT TRAFIC VP Gd dCi (115ch)",
+    "carburant":"GO",
+    "consoUrbain":8.1,
+    "consoExtUrb":5.8,
+    "consoMixte":6.7,
+    "rejet":175
+  },
+  {
+    "model":"RENAULT TRAFIC VP dCi (115ch)",
+    "carburant":"GO",
+    "consoUrbain":8.1,
+    "consoExtUrb":5.8,
+    "consoMixte":6.7,
+    "rejet":175
+  },
+  {
+    "model":"RENAULT TRAFIC VP Gd dCi (90ch)",
+    "carburant":"GO",
+    "consoUrbain":8.1,
+    "consoExtUrb":5.8,
+    "consoMixte":6.7,
+    "rejet":175
+  },
+  {
+    "model":"RENAULT SCENIC dCi (150ch) BVA",
+    "carburant":"GO",
+    "consoUrbain":8.5,
+    "consoExtUrb":5.9,
+    "consoMixte":6.9,
+    "rejet":179
+  },
+  {
+    "model":"RENAULT Grand SCENIC 5PL dCi (150ch) BVA",
+    "carburant":"GO",
+    "consoUrbain":8.5,
+    "consoExtUrb":5.9,
+    "consoMixte":6.9,
+    "rejet":179
+  },
+  {
+    "model":"RENAULT Grand SCENIC 7PL dCi (150ch) BVA",
+    "carburant":"GO",
+    "consoUrbain":8.5,
+    "consoExtUrb":5.9,
+    "consoMixte":6.9,
+    "rejet":179
+  },
+  {
+    "model":"RENAULT LAGUNA V6 dCi (240ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":10.0,
+    "consoExtUrb":5.6,
+    "consoMixte":7.1,
+    "rejet":185
+  },
+  {
+    "model":"RENAULT LATITUDE V6 dCi (240ch) BVA6",
+    "carburant":"GO",
+    "consoUrbain":10.0,
+    "consoExtUrb":5.7,
+    "consoMixte":7.2,
+    "rejet":188
+  },
+  {
+    "model":"RENAULT TRAFIC VP dCi (115ch) BVR",
+    "carburant":"GO",
+    "consoUrbain":8.1,
+    "consoExtUrb":6.7,
+    "consoMixte":7.2,
+    "rejet":188
+  },
+  {
+    "model":"RENAULT TRAFIC VP dCi (90ch)",
+    "carburant":"GO",
+    "consoUrbain":8.8,
+    "consoExtUrb":6.5,
+    "consoMixte":7.3,
+    "rejet":190
+  },
+  {
+    "model":"RENAULT TRAFIC VP dCi (115ch)",
+    "carburant":"GO",
+    "consoUrbain":8.8,
+    "consoExtUrb":6.5,
+    "consoMixte":7.3,
+    "rejet":190
+  }
+]
